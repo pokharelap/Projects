@@ -17,7 +17,7 @@ SET client_min_messages = warning;
 SET row_security = off;
 
 
-
+--- CODE to interpret data---
 
 -- Define the target year using the SET command
 SET my_vars.target_year = 2012; -- Change the year as needed
