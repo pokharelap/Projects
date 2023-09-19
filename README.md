@@ -1,4 +1,4 @@
-Certainly! Here's the summary with "we" converted to "I":
+Summary of what this project is about
 
 1. **Database Creation:**
    - I started by creating a PostgreSQL database named "Project."
